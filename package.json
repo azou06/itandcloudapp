@@ -1,0 +1,14 @@
+{
+  "name": "itandcloudapp",
+  "version": "1.0.0",
+  "description": "Simple service ticket tracker",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
